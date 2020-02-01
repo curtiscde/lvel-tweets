@@ -1,0 +1,27 @@
+{
+  "name": "lvel-tweets",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "lint": "eslint .",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/curtistimson/lvel-tweets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curtistimson/lvel-tweets/issues"
+  },
+  "homepage": "https://github.com/curtistimson/lvel-tweets#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.0"
+  }
+}
