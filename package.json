@@ -1,0 +1,22 @@
+{
+  "name": "lvel-tweets",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/curtistimson/lvel-tweets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curtistimson/lvel-tweets/issues"
+  },
+  "homepage": "https://github.com/curtistimson/lvel-tweets#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
