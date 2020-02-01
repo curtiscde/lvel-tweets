@@ -2,9 +2,9 @@
   "name": "lvel-tweets",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
