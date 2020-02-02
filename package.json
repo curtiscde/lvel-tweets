@@ -5,7 +5,8 @@
   "scripts": {
     "lint": "eslint .",
     "start": "node src/index.js",
-    "start:dev": "nodemon src/index.js"
+    "start:dev": "nodemon src/index.js",
+    "dev": "docker-compose -f docker-compose.dev.yaml up"
   },
   "repository": {
     "type": "git",
