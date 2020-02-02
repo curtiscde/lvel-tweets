@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "lint": "eslint .",
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "start:dev": "node src/index.js"
   },
   "repository": {
     "type": "git",
